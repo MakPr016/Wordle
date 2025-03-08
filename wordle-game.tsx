@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button"
 import { toast } from "@/components/ui/use-toast"
 import { Toaster } from "@/components/ui/toaster"
 
-const POSSIBLE_ANSWERS = ["EAGLE", "ATRIA", "ADMIN"]
+const POSSIBLE_ANSWERS = ["ADMIN"]
 const MAX_ATTEMPTS = 6
 const WORD_LENGTH = 5
 
